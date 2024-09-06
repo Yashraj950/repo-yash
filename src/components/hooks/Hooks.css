@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+
+body{
+    background-color: rgb(223, 234, 253);
+}
+
+.counter{
+margin: 55px;
+margin-top: 0;
+margin-left: 75px;
+}
+
+.state-counter h1{
+    /* margin: 45px; */
+    /* padding-right: 74px;
+    padding-left: 34px;
+    padding-top: 0px;
+    padding-bottom: 27px; */
+    font-size: 55px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.grid-three-cols{
+    margin-top: 35px;
+     text-align: center;
+    margin-left:5px;
+    margin-right: 109px;
+    
+    /* margin: 35px; */
+    /* padding-right: 74px; */
+    /* padding-left: 4px; */
+    /* padding-top: 0px;
+    padding-bottom: 27px; */
+    /* text-align: center; */
+    /* justify-self: center;
+    align-items: center; */
+
+}
+
+.grid-three-cols button{
+    /* margin: 5px; */
+    margin-right: 10px;
+    margin-left: 10px;
+  
+    padding-top: 4px;
+    padding-bottom: 4px;
+    /* margin-bottom: 0;
+    margin-top: 0;
+    margin-right: 0; */
+    padding-right: 214px;
+    padding-left: 214px;
+    border: 1px solid black;
+    border-radius: 2px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    
+
+}
+
+.state-counter p{
+    margin: 35px;
+    margin-bottom: 0;
+    padding-top: 14px;
+    padding-bottom: 0;
+    padding-right:34px;
+    padding-left: 34px;
+    font-size: 22px;
+    padding-bottom: 27px;
+}
+
+.step label{
+    margin: 35px;
+    padding-right: 74px;
+    padding-left: 34px;
+    font-size: 22px;  
+    
+}
+
+.step label input{
+    border: 1px solid rgb(212, 212, 212);
+    border-radius: 2.5px;
+   margin-left: 25px;
+   padding-left: 6px;
+   padding-right: 5px;
+   padding-top: 0;
+   font-size: 18px;
+
+}
+
+.state-counter p span{
+    font-size: 34px;
+    color: black;
+}
